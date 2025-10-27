@@ -1,4 +1,4 @@
 # cerddi
 
-### Casgliad o gerddi caeth i'w defnyddio gyda `ceibwr`.
+Casgliad o gerddi caeth, wedi eu trefnu yn ôl cyfnod. 
 
