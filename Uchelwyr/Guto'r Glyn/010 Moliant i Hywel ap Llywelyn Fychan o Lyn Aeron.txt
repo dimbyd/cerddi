@@ -2,7 +2,7 @@
 rhif: 10
 teitl: Moliant i Hywel ap Llywelyn Fychan o Lyn Aeron
 awdur: Guto'r Glyn
-golygwyd: gan Dafydd Johnston
+golygwyd: Dafydd Johnston
 ---
 
 Y mae gŵr ym i’w garu,

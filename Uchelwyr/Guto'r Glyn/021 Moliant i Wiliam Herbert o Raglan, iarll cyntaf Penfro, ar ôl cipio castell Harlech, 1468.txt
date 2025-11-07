@@ -2,7 +2,7 @@
 rhif: 21
 teitl: Moliant i Wiliam Herbert o Raglan, iarll cyntaf Penfro, ar ôl cipio castell Harlech, 1468
 awdur: Guto'r Glyn
-golygwyd gan Barry J. Lewis
+golygwyd: Barry J. Lewis
 ---
 
 Tri llu aeth i Gymru gynt,

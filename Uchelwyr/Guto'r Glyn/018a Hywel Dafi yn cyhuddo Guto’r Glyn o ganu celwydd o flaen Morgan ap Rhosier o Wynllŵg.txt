@@ -1,7 +1,7 @@
 ---
 rhif: 18a
 teitl: Hywel Dafi yn cyhuddo Guto’r Glyn o ganu celwydd o flaen Morgan ap Rhosier o Wynllŵgawdur: Hywel Dafi
-golygwyd gan Barry J. Lewis
+golygwyd: Barry J. Lewis
 ---
 
 Darogan fydd a ganwyf,

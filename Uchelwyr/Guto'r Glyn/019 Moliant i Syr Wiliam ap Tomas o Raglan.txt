@@ -2,7 +2,7 @@
 rhif: 19
 teitl: Moliant i Syr Wiliam ap Tomas o Raglan
 awdur: Guto'r Glyn
-golygwyd gan Barry J. Lewis
+golygwyd: Barry J. Lewis
 ---
 
 Sâl rhugl yn seiliaw Rhaglan,

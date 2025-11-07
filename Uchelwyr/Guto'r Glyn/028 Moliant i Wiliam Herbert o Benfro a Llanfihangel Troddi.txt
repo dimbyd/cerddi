@@ -2,7 +2,7 @@
 rhif: 28
 teitl: Moliant i Wiliam Herbert o Benfro a Llanfihangel Troddi
 awdur: Guto'r Glyn
-golygwyd gan Barry J. Lewis
+golygwyd: Barry J. Lewis
 ---
 
 Dau dir, ni newidiwyd un,

@@ -2,7 +2,7 @@
 rhif: 20a
 teitl: Ateb Hywel Dafi
 awdur: Hywel Dafi
-golygwyd gan Barry J. Lewis
+golygwyd: Barry J. Lewis
 ---
 
 Rhyfedd ydiw arfeddyd
