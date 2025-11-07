@@ -1,6 +1,8 @@
 ---
+rhif: 2
 teitl: Dathlu rhyddid Syr Rhisiart Gethin ap Rhys Gethin o Fuellt
 awdur: Guto'r Glyn
+golygwyd: Barry J. Lewis
 ---
 
 Y mae glaw am a glywais

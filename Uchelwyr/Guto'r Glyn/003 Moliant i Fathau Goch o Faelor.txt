@@ -1,6 +1,8 @@
 ---
+rhif: 3
 teitl: Moliant i Fathau Goch o Faelor
 awdur: Guto'r Glyn
+golygwyd: Alaw Mai Edwards
 ---
 
 Pan sonier i’n amser ni

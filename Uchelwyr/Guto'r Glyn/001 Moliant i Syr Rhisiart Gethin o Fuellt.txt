@@ -1,6 +1,8 @@
 ---
+rhif: 1
 teitl: Moliant i Syr Rhisiart Gethin ap Rhys Gethin o Fuellt
 awdur: Guto'r Glyn
+golygwyd: Barry J. Lewis
 ---
 
 Oer oedd weled urddolion 

@@ -1,7 +1,8 @@
 ---
+rhif: 4
 teitl: Brwydr y beirdd yn erbyn gwin Tomas ap Watgyn o Landdewi Rhydderch
 awdur: Guto'r Glyn
-gol: Barry J. Lewis
+golygwyd: Barry J. Lewis
 ---
 
 Teimlwr gwŷr, teml iôr gwiwrent,
